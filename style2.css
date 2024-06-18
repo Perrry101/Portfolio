@@ -1,0 +1,98 @@
+.infocard1
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.218);
+    height: 70%;
+    width: 70%;
+    font-size: medium;
+    position:relative;
+    margin-top: 15%;
+   
+
+}
+.heading
+{
+    width: auto;
+    height: auto;
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    margin-right: 2%;
+    overflow: hidden;
+
+}
+
+.card1
+{
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.card1 h3
+{
+    margin-left:39% ;
+    
+}
+
+
+
+.card2
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+.heading2
+{
+    height: auto;
+    width: auto;
+    position: absolute;
+    display: flex;
+    
+}
+
+
+.infocard2
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.218);
+    height: 70%;
+    width: 70%;
+    font-size: medium;
+    position:relative;
+    margin-top: 15%;
+
+}
+
+.card3
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+.heading3
+{
+    height: auto;
+    width: auto;
+    position: absolute;
+    display: flex;
+    
+}
+
+
+.infocard3
+{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.218);
+    height: 70%;
+    width: 70%;
+    font-size: medium;
+    position:relative;
+    margin-top: 15%;
+
+}
