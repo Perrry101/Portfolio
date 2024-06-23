@@ -1,12 +1,13 @@
 .infocard1
 {
     color: white;
-    background-color: rgba(0, 0, 0, 0.218);
+    background-color: rgba(0, 0, 0, 0.091);
     height: 70%;
     width: 70%;
     font-size: medium;
     position:relative;
     margin-top: 15%;
+    border-radius: 8%;
    
 
 }
@@ -59,12 +60,13 @@
 .infocard2
 {
     color: white;
-    background-color: rgba(0, 0, 0, 0.218);
+    background-color: rgba(0, 0, 0, 0.091);
     height: 70%;
     width: 70%;
     font-size: medium;
     position:relative;
     margin-top: 15%;
+    border-radius: 8%;
 
 }
 
@@ -88,11 +90,12 @@
 .infocard3
 {
     color: white;
-    background-color: rgba(0, 0, 0, 0.218);
+    background-color: rgba(0, 0, 0, 0.091); 
     height: 70%;
     width: 70%;
     font-size: medium;
     position:relative;
     margin-top: 15%;
+    border-radius: 8%;
 
 }
